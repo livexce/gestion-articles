@@ -15,6 +15,7 @@
     "mongoose": "^8.9.5"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "sonar-scanner": "^3.1.0"
   }
 }
